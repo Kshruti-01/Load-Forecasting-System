@@ -2,7 +2,7 @@
 The Load Forecasting System addresses the need for accurate prediction of 
 electrical load across multiple lines (33kVA, 132kVA Line 3, 132kVA Line 5). 
 The project involves preprocessing raw time-series data, handling missing readings through imputation, and engineering temporal features such as day of the week, month, and holidays.
-Various models, including Random Forest,XGBoost, and LSTM, were trained, validated, and compared to select the bestperforming model. 
+Various models, including Random Forest,XGBoost, and LSTM, were trained, validated, and compared to select the best performing model. 
 The system successfully forecasts load with high accuracy, enabling proactive energy management, minimizing the risk of outages, and supporting operational planning.
 
 # Methodology
